@@ -62,6 +62,7 @@ join-more sheet starts
 	font-size: 40px;
 	padding-bottom: 60px;
 	width: 400px;
+	margin-left: 40px;
 }
 
 
@@ -171,6 +172,41 @@ text-align: center;
 /*
 what-you-get sheet ends
 */
-.some-word{
+/*
+some what sheet starts
+*/
+.some-words{
 clear: both;
+background:#6ff;
+text-align: center;
+padding-top: 150px;
+ 
 }
+.some-words h3{
+	color:#fff;
+	font-size: 50px;
+	padding-bottom: 30px;
+}
+.some-words h3:first-letter{
+	text-transform: capitalize;
+
+}
+.some-words p{
+	çolor:#000;
+	padding-bottom: 20px;
+}
+.some-words .phone{
+	float: left;
+}
+.some-words li{
+	display: inline-block;
+}
+.comments{
+	background: #fff;
+	display: inline-block;
+	
+}
+/*
+some what s
+heet ends
+*/
