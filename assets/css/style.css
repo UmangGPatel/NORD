@@ -280,3 +280,18 @@ some what sheet ends
 .join-us input[type="email"]::placeholder{
 	color: #fff;
 }
+footer{
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+footer img{
+	margin-bottom: 10px;
+}
+footer p{
+	font-size: 13px;
+}
+footer a{
+	text-decoration: none;
+	color: #0ff;
+}
