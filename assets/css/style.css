@@ -1,0 +1,79 @@
+.wrapper{
+	width:60%;
+	margin:auto;
+}
+header a{
+	text-decoration: none;
+	color: white;
+}
+header>div>ul a{
+display: block;
+padding: 10px 40px 10px 40px;
+}
+header>div>ul a:hover{
+background: #00ffff;
+}
+header>div>h1 a{
+	font-size: 0px;
+	float: left;
+}
+header>div>ul{
+	list-style: none;
+	float: right;
+	margin-top: 40px;
+}
+header>div>ul>li{
+	float: left;
+	color: white;
+	background: #000;
+}
+header{
+	position: fixed;
+	width: 100%;	
+}
+main{
+	clear: both;
+}
+.join-more{
+	background: linear-gradient(140deg,#fff 40% , #0ff 40% );
+	padding-top: 250px; 
+}
+.join-more img 
+{
+	display: inline-block;
+	float: left;
+}
+.join-more h2{
+	font-size: 40px;
+	padding-bottom: 60px;
+	width: 400px;
+}
+
+
+.join-more h2:first-letter{
+text-transform: capitalize;
+}
+
+.join-more .para
+{
+	display: inline-block;
+	float: right;
+
+}
+.join-more .para span{
+ font-style: italic;
+ color:#fff;
+}
+.join-more .para ul{
+	list-style: none;
+	font-size: 15px;
+}
+.join-more .para li{
+	padding-bottom:10px;
+	color: #fff;
+}
+
+.join-more .para ul li:last-child{
+	padding-bottom:40px;
+}
+
